@@ -1,1 +1,1 @@
-{"name":"CDIDToken","description":"CDID is the only identity on compverse","image":"https://raw.githubusercontent.com/DarlingFree/CompverseMetaDev/main/image/0x9c78491c74a75035ba8cdc0ab8370779ae9c0618.png","Attributes":null}
+{"name":"CDIDToken","description":"CDID is the only identity on compverse","image":"https://raw.githubusercontent.com/DarlingFree/CompverseMetaDev/main/image/0x9c78491c74a75035ba8cdc0ab8370779ae9c0618.png","Attributes":[{"trait_type":"nikeName","value":"1234567890123456"}]}
